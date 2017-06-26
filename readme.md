@@ -86,7 +86,7 @@ _ตัวเอียง_
     }
     ```
 ```
-```javascript
+```javascript=+
 function myFunc(param) {
     console.log(param);
 }
