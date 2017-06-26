@@ -38,7 +38,7 @@ _ตัวเอียง_
 [Click here](http://google.com)
 
 ## Images
-![My Image](https://github.com/yuttasakcom/markdown101/yoprogrammer.jpg)
+![My Image](https://github.com/yuttasakcom/markdown101/blob/master/yoprogrammer.jpg)
 
 ## Lists
 * Item 1
