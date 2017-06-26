@@ -46,9 +46,9 @@ _ตัวเอียง_
 
 ## Images
 ```
-![My Image](https://github.com/yuttasakcom/markdown101/blob/master/yoprogrammer.jpg?h=150)
+![My Image](https://github.com/yuttasakcom/markdown101/blob/master/yoprogrammer.jpg?h=50)
 ```
-![My Image](https://github.com/yuttasakcom/markdown101/blob/master/yoprogrammer.jpg?h=150)
+![My Image](https://github.com/yuttasakcom/markdown101/blob/master/yoprogrammer.jpg?h=50)
 
 ## Lists
 ```
