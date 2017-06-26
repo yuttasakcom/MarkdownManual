@@ -3,6 +3,9 @@
 ## สารบัญ
 - [Heading](#heading)
 - [Text Formatting](#text-formatting)
+- [Links](#links)
+- [Lists](#lists)
+- [Code](#code)
 
 ## Heading
 ```
@@ -72,7 +75,7 @@ _ตัวเอียง_
 	* Subitem
 3. Item 3
 
-##code
+## Code
 ```
     ```javascript
     function myFunc(param) {
