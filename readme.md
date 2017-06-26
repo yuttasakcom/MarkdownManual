@@ -4,6 +4,7 @@
 - [Heading](#heading)
 - [Text Formatting](#text-formatting)
 - [Links](#links)
+- [Images](#images)
 - [Lists](#lists)
 - [Code](#code)
 
