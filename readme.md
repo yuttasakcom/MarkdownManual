@@ -35,12 +35,31 @@ _ตัวเอียง_
 <del>ขีดทำลาย</del>
 
 ## Links
+```
+[Click here](http://google.com)
+```
 [Click here](http://google.com)
 
 ## Images
+```
+![My Image](https://github.com/yuttasakcom/markdown101/blob/master/yoprogrammer.jpg)
+```
 ![My Image](https://github.com/yuttasakcom/markdown101/blob/master/yoprogrammer.jpg)
 
 ## Lists
+```
+* Item 1
+* Item 2
+	* Subitem 1
+	* Subitem 2
+* Item 3
+* Item 4
+
+1. Item 1
+2. Item 2
+	* Subitem
+3. Item 3
+```
 * Item 1
 * Item 2
 	* Subitem 1
@@ -54,6 +73,13 @@ _ตัวเอียง_
 3. Item 3
 
 ##code
+```
+    ```javascript
+    function myFunc(param) {
+        console.log(param);
+    }
+    ```
+```
 ```javascript
 function myFunc(param) {
     console.log(param);
