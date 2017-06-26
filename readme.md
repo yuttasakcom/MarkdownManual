@@ -21,4 +21,8 @@
 ###### Heading Six
 
 ## Text Formatting
+```
+Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Donec pellentesque sit amet lectus a elementum. Praesent pretium porttitor semper. *Pellentesque vulputate nulla* sit amet feugiat pretium. **_Donec commodo augue lectus_**, ac viverra odio vehicula a. <del>Morbi a mi risus</del>. Vestibulum sit amet ligula vel nibh ultrices interdum.
+```
+
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Donec pellentesque sit amet lectus a elementum. Praesent pretium porttitor semper. *Pellentesque vulputate nulla* sit amet feugiat pretium. **_Donec commodo augue lectus_**, ac viverra odio vehicula a. <del>Morbi a mi risus</del>. Vestibulum sit amet ligula vel nibh ultrices interdum.
