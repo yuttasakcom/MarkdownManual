@@ -122,3 +122,11 @@ function myFunc(param) {
   - [x] sub2
 - [x] Meeting with Derek at 4:00pm
 - [ ] Go home
+
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+Note left of Alice: Alice responds
+Alice->Bob: Where have you been?
+```
