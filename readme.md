@@ -111,10 +111,14 @@ function myFunc(param) {
 ```
 - [ ] Call John Doe about project
 - [x] Meeting with Kathy at 2:00pm
+  - [x] sub1
+  - [x] sub2
 - [x] Meeting with Derek at 4:00pm
 - [ ] Go home
 ```
 - [ ] Call John Doe about project
 - [x] Meeting with Kathy at 2:00pm
+  - [x] sub1
+  - [x] sub2
 - [x] Meeting with Derek at 4:00pm
 - [ ] Go home
