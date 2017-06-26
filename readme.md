@@ -38,7 +38,7 @@ _ตัวเอียง_
 [Click here](http://google.com)
 
 ## Images
-![My Image](https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150)
+![My Image](https://github.com/yuttasakcom/markdown101/yoprogrammer.jpg)
 
 ## Lists
 * Item 1
@@ -55,7 +55,7 @@ _ตัวเอียง_
 
 ##code
 ```javascript
-	function myFunc(param){
-    	console.log(param);
-    }
+function myFunc(param) {
+    console.log(param);
+}
 ```
