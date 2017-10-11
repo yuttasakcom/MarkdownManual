@@ -1,4 +1,5 @@
-## Markdown 101
+## Markdown Manual
+> คู่มือการใช้งาน Markdown ฉบับ YoProgrammer
 
 ## สารบัญ
 - [Heading](#heading)
